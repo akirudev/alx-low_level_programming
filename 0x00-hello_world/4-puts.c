@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * program to print white (puts)
- * Return0
+ * main - print white (puts)
+ * Return: zero
  */
 int	main(void)
 {
